@@ -1,5 +1,7 @@
+# Nama: Hasbi Albar Alfarissi
+# NIM: 301240052
+projek ini dibuat untuk memenuhi tugas quiz mata kuliah penghantar pemograman 
 # Book-Inventory-Management
-
 Repositori ini berisi Sistem Manajemen Inventaris Buku sederhana yang diimplementasikan dalam Python menggunakan pustaka Tkinter untuk antarmuka pengguna grafis (GUI) dan MySQL untuk backend basis data. Aplikasi ini memungkinkan pengguna untuk menambah, memperbarui, menghapus, dan melihat buku dalam inventaris mereka.
 
 ## Features
